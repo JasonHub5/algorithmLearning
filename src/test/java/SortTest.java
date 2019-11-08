@@ -1,8 +1,28 @@
 import org.junit.Test;
+import sort.HillSort;
+import sort.InsertSort;
 import sort.MergeSort;
 import sort.QuickSort;
 
 public class SortTest {
+
+    @Test
+    public void insertSortTest(){
+        int[] arr = {10, 23, 2, 4, 5, 7, 24, 1};
+        int[] ints = InsertSort.insertSort(arr);
+        for (int i : ints) {
+            System.out.println(i);
+        }
+    }
+
+    @Test
+    public void hillSortTest(){
+        int[] arr = {10, 23, 2, 4, 5, 7, 24, 1};
+        int[] ints = HillSort.hillSort(arr);
+        for (int i : ints) {
+            System.out.println(i);
+        }
+    }
 
     @Test
     public void quickSortTest() {
