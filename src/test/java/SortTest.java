@@ -1,4 +1,5 @@
 import org.junit.Test;
+import sort.MergeSort;
 import sort.QuickSort;
 
 public class SortTest {
@@ -12,6 +13,16 @@ public class SortTest {
         for (int i : ints) {
             System.out.println(i);
         }
-        System.out.println(arr.toString());
+    }
+
+    @Test
+    public void mergeSortTest() {
+        int[] arr = {10, 23, 2, 4, 5, 7, 24, 1};
+
+        int[] ints = MergeSort.mergeSort(arr);
+
+        for (int i : ints) {
+            System.out.println(i);
+        }
     }
 }
