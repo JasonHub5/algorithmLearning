@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="585c2257-cdf9-4a24-8cda-5f89f1c3cb22" name="Default" comment="add recusion">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recusion/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recusion/PermutationII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/recusion/PermutationTest.java" afterDir="false" />
+    <list default="true" id="585c2257-cdf9-4a24-8cda-5f89f1c3cb22" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/recusion/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recusion/SubsetsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/recusion/SubsetsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/sort/SortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recusion/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recusion/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/recusion/PermutationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/recusion/PermutationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,46 +20,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Permutation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/Permutation.java">
+      <file leaf-file-name="Subsets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/Subsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="334">
+              <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="44" selection-end-column="43" />
               <folding>
-                <element signature="e#0#262#0" expanded="true" />
+                <element signature="e#0#53#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="SubsetsII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/SubsetsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PermutationII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/PermutationII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+            <state relative-caret-position="120">
+              <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
               <folding>
-                <element signature="e#0#145#0" expanded="true" />
+                <element signature="e#0#55#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PermutationTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/recusion/PermutationTest.java">
+      <file leaf-file-name="SubsetsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/recusion/SubsetsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="352">
+              <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,10 +81,13 @@
         <option value="$PROJECT_DIR$/src/test/java/RecusionTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/sort/SortTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/recusion/Permutations.java" />
-        <option value="$PROJECT_DIR$/src/test/java/recusion/PermutationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/recusion/Permutation.java" />
         <option value="$PROJECT_DIR$/src/main/java/recusion/PermutationII.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/recusion/PermutationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/recusion/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/recusion/Subsets.java" />
+        <option value="$PROJECT_DIR$/src/test/java/recusion/SubsetsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/recusion/SubsetsII.java" />
       </list>
     </option>
   </component>
@@ -120,8 +110,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="448" />
-    <option name="y" value="60" />
+    <option name="x" value="248" />
+    <option name="y" value="19" />
     <option name="width" value="1446" />
     <option name="height" value="950" />
   </component>
@@ -223,9 +213,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PermutationTest.permutationIITest">
+  <component name="RunManager" selected="JUnit.SubsetsTest.subsetsIITest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="PermutationTest.permutation2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="recusion" />
+      <option name="MAIN_CLASS_NAME" value="recusion.PermutationTest" />
+      <option name="METHOD_NAME" value="permutation2Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="PermutationTest.permutationIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test001" />
@@ -273,13 +286,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SortTest.hillSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubsetsTest.subsetsIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="sort" />
-      <option name="MAIN_CLASS_NAME" value="sort.SortTest" />
-      <option name="METHOD_NAME" value="hillSortTest" />
+      <option name="PACKAGE_NAME" value="recusion" />
+      <option name="MAIN_CLASS_NAME" value="recusion.SubsetsTest" />
+      <option name="METHOD_NAME" value="subsetsIITest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -290,30 +309,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SortTest.insertSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubsetsTest.subsetsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="sort" />
-      <option name="MAIN_CLASS_NAME" value="sort.SortTest" />
-      <option name="METHOD_NAME" value="insertSortTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SortTest.mergeSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test001" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="sort" />
-      <option name="MAIN_CLASS_NAME" value="sort.SortTest" />
-      <option name="METHOD_NAME" value="mergeSortTest" />
+      <option name="PACKAGE_NAME" value="recusion" />
+      <option name="MAIN_CLASS_NAME" value="recusion.SubsetsTest" />
+      <option name="METHOD_NAME" value="subsetsTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -363,19 +371,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SortTest.mergeSortTest" />
-      <item itemvalue="JUnit.SortTest.insertSortTest" />
-      <item itemvalue="JUnit.SortTest.hillSortTest" />
       <item itemvalue="JUnit.PermutationTest.permutationTest" />
       <item itemvalue="JUnit.PermutationTest.permutationIITest" />
+      <item itemvalue="JUnit.PermutationTest.permutation2Test" />
+      <item itemvalue="JUnit.SubsetsTest.subsetsTest" />
+      <item itemvalue="JUnit.SubsetsTest.subsetsIITest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PermutationTest.permutationIITest" />
+        <item itemvalue="JUnit.SubsetsTest.subsetsIITest" />
+        <item itemvalue="JUnit.SubsetsTest.subsetsTest" />
+        <item itemvalue="JUnit.PermutationTest.permutation2Test" />
         <item itemvalue="JUnit.PermutationTest.permutationTest" />
-        <item itemvalue="JUnit.SortTest.hillSortTest" />
-        <item itemvalue="JUnit.SortTest.insertSortTest" />
-        <item itemvalue="JUnit.SortTest.mergeSortTest" />
+        <item itemvalue="JUnit.PermutationTest.permutationIITest" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +398,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573094091181</updated>
       <workItem from="1573094094632" duration="6547000" />
-      <workItem from="1573192833968" duration="13723000" />
+      <workItem from="1573192833968" duration="23972000" />
     </task>
     <task id="LOCAL-00001" summary="add merge sort">
       <created>1573193604576</created>
@@ -413,43 +421,50 @@
       <option name="project" value="LOCAL" />
       <updated>1573198796673</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add recusion">
+      <created>1573210449419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573210449419</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PermutationTest_permutationIITest - 2019.11.08 at 18h 34m 46s.xml">
-      <configuration name="PermutationTest.permutationIITest" configurationId="JUnit" />
+    <history-entry file="PermutationTest_permutation2Test - 2019.11.11 at 16h 16m 23s.xml">
+      <configuration name="PermutationTest.permutation2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PermutationTest_permutationTest - 2019.11.08 at 18h 34m 58s.xml">
-      <configuration name="PermutationTest.permutationTest" configurationId="JUnit" />
+    <history-entry file="PermutationTest_permutation2Test - 2019.11.11 at 16h 29m 03s.xml">
+      <configuration name="PermutationTest.permutation2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PermutationTest_permutationTest - 2019.11.08 at 18h 35m 04s.xml">
-      <configuration name="PermutationTest.permutationTest" configurationId="JUnit" />
+    <history-entry file="SubsetsTest_subsetsTest - 2019.11.11 at 17h 34m 01s.xml">
+      <configuration name="SubsetsTest.subsetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PermutationTest_permutationTest - 2019.11.08 at 18h 36m 00s.xml">
-      <configuration name="PermutationTest.permutationTest" configurationId="JUnit" />
+    <history-entry file="SubsetsTest_subsetsTest - 2019.11.11 at 17h 36m 00s.xml">
+      <configuration name="SubsetsTest.subsetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PermutationTest_permutationTest - 2019.11.08 at 18h 37m 32s.xml">
-      <configuration name="PermutationTest.permutationTest" configurationId="JUnit" />
+    <history-entry file="SubsetsTest_subsetsTest - 2019.11.11 at 17h 37m 47s.xml">
+      <configuration name="SubsetsTest.subsetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PermutationTest_permutationIITest - 2019.11.08 at 18h 46m 28s.xml">
-      <configuration name="PermutationTest.permutationIITest" configurationId="JUnit" />
+    <history-entry file="SubsetsTest_subsetsTest - 2019.11.11 at 17h 40m 35s.xml">
+      <configuration name="SubsetsTest.subsetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PermutationTest_permutationIITest - 2019.11.08 at 18h 48m 16s.xml">
-      <configuration name="PermutationTest.permutationIITest" configurationId="JUnit" />
+    <history-entry file="SubsetsTest_subsetsIITest - 2019.11.11 at 20h 06m 12s.xml">
+      <configuration name="SubsetsTest.subsetsIITest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PermutationTest_permutationIITest - 2019.11.08 at 18h 48m 25s.xml">
-      <configuration name="PermutationTest.permutationIITest" configurationId="JUnit" />
+    <history-entry file="SubsetsTest_subsetsIITest - 2019.11.11 at 20h 06m 43s.xml">
+      <configuration name="SubsetsTest.subsetsIITest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PermutationTest_permutationIITest - 2019.11.08 at 18h 50m 49s.xml">
-      <configuration name="PermutationTest.permutationIITest" configurationId="JUnit" />
+    <history-entry file="SubsetsTest_subsetsIITest - 2019.11.11 at 20h 08m 11s.xml">
+      <configuration name="SubsetsTest.subsetsIITest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PermutationTest_permutationIITest - 2019.11.08 at 18h 51m 55s.xml">
-      <configuration name="PermutationTest.permutationIITest" configurationId="JUnit" />
+    <history-entry file="SubsetsTest_subsetsIITest - 2019.11.11 at 20h 09m 34s.xml">
+      <configuration name="SubsetsTest.subsetsIITest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20270000" />
+    <option name="totallyTimeSpent" value="30519000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,13 +476,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="448" y="60" width="1446" height="950" extended-state="0" />
+    <frame x="248" y="19" width="1446" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299748" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32912987" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32912987" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -475,18 +490,18 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26986128" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32912987" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24891774" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24891774" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32912987" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39848676" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39848676" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -532,8 +547,26 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recusion/PermutationII.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recusion/Subsets.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recusion/SubsetsII.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -592,10 +625,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-rc-1/junit-4.13-rc-1.jar!/org/junit/internal/requests/FilterRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/recusion/PermutationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="336">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -604,10 +651,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/recusion/PermutationII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+        <state relative-caret-position="16">
+          <caret line="1" column="85" lean-forward="true" selection-start-line="1" selection-start-column="85" selection-end-line="1" selection-end-column="85" />
           <folding>
-            <element signature="e#0#145#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -615,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/recusion/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="1296">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
           <folding>
             <element signature="e#0#262#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -624,10 +670,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/Subsets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="334">
+          <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="44" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/recusion/SubsetsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/SubsetsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
