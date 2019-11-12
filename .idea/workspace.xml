@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="585c2257-cdf9-4a24-8cda-5f89f1c3cb22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/recusion/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recusion/CombinationSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recusion/PalindromePartitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recusion/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/recusion/CombinationSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/recusion/DecodeWaysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/recusion/PalindromePartitioningTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,27 +27,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="494">
+              <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
               <folding>
                 <element signature="e#0#794#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.MD" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/README.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="176">
-                <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -193,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java" />
         <option value="$PROJECT_DIR$/src/main/java/recusion/readme.MD" />
         <option value="$PROJECT_DIR$/src/main/java/recusion/README.MD" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -214,9 +193,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="296" />
-    <option name="y" value="18" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="260" />
+    <option name="y" value="4" />
     <option name="width" value="1446" />
     <option name="height" value="950" />
   </component>
@@ -318,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DecodeWaysTest.decodeWaysTest">
+  <component name="RunManager" selected="JUnit.PermutationTest.permutationTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -414,7 +393,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SubsetsTest.subsetsIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PermutationTest.permutationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test001" />
       <extension name="coverage">
         <pattern>
@@ -425,8 +404,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="recusion" />
-      <option name="MAIN_CLASS_NAME" value="recusion.SubsetsTest" />
-      <option name="METHOD_NAME" value="subsetsIITest" />
+      <option name="MAIN_CLASS_NAME" value="recusion.PermutationTest" />
+      <option name="METHOD_NAME" value="permutationTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -476,19 +455,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SubsetsTest.subsetsIITest" />
       <item itemvalue="JUnit.CombinationSumTest.combinationSumTest" />
       <item itemvalue="JUnit.CombinationSumTest.combinationSumIITest" />
       <item itemvalue="JUnit.PalindromePartitioningTest.palindromePartitioningTest" />
       <item itemvalue="JUnit.DecodeWaysTest.decodeWaysTest" />
+      <item itemvalue="JUnit.PermutationTest.permutationTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PermutationTest.permutationTest" />
         <item itemvalue="JUnit.DecodeWaysTest.decodeWaysTest" />
         <item itemvalue="JUnit.PalindromePartitioningTest.palindromePartitioningTest" />
         <item itemvalue="JUnit.CombinationSumTest.combinationSumIITest" />
         <item itemvalue="JUnit.CombinationSumTest.combinationSumTest" />
-        <item itemvalue="JUnit.SubsetsTest.subsetsIITest" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +482,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573094091181</updated>
       <workItem from="1573094094632" duration="6547000" />
-      <workItem from="1573192833968" duration="36325000" />
+      <workItem from="1573192833968" duration="37845000" />
     </task>
     <task id="LOCAL-00001" summary="add merge sort">
       <created>1573193604576</created>
@@ -540,7 +519,28 @@
       <option name="project" value="LOCAL" />
       <updated>1573474236740</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add some recusion questions">
+      <created>1573547036504</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573547036504</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add some recusion questions">
+      <created>1573548124705</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573548124705</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add some recusion questions">
+      <created>1573548210496</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573548210496</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -576,7 +576,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42872000" />
+    <option name="totallyTimeSpent" value="44392000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -588,7 +588,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="296" y="18" width="1446" height="950" extended-state="0" />
+    <frame x="260" y="4" width="1446" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
@@ -642,7 +642,8 @@
     <MESSAGE value="add merge sort" />
     <MESSAGE value="add recusion" />
     <MESSAGE value="add subsets" />
-    <option name="LAST_COMMIT_MESSAGE" value="add subsets" />
+    <MESSAGE value="add some recusion questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some recusion questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -886,17 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#0#794#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/recusion/CombinationSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -921,9 +911,30 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="176">
-            <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#794#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
