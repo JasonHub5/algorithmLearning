@@ -32,8 +32,5 @@ public class FindMinimumTest {
     public void findClosestElemetsTest() {
         List<Integer> closestElements = FindClosestElements.findClosestElements(Arrays.asList(1, 2, 3, 4, 5), 4, 3);
         System.out.println(closestElements);
-
-        int closestIndex = FindClosestElements.findClosestIndex(new int[]{1, 2, 2, 2, 4, 4, 4, 6}, 2);
-        System.out.println(closestIndex);
     }
 }
