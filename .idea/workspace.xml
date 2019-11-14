@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="585c2257-cdf9-4a24-8cda-5f89f1c3cb22" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/FindClosestElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/FindFirstAndLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/FindMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/binarysearch/FindMinimumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,11 +21,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Subsets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/Subsets.java">
+      <file leaf-file-name="README.MD" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/README.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="458">
+                <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindClosestElements.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindClosestElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="512">
+              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,36 +57,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java">
+      <file leaf-file-name="FindFirstAndLast.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindFirstAndLast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
+            <state relative-caret-position="651">
+              <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
               <folding>
-                <element signature="e#0#794#0" expanded="true" />
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#66#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CombinationSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/CombinationSum.java">
+      <file leaf-file-name="FindMinimumTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/binarysearch/FindMinimumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DecodeWaysTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/recusion/DecodeWaysTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="464">
+              <caret line="35" column="77" lean-forward="true" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,63 +81,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PermutationII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/PermutationII.java">
+      <file leaf-file-name="FindMinimum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindMinimum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+            <state relative-caret-position="348">
+              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
               <folding>
-                <element signature="e#0#1872#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Permutation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/Permutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1040">
-              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CombinationSumII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/CombinationSumII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-              <folding>
-                <element signature="e#0#62#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PalindromePartitioning.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/recusion/PalindromePartitioning.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CombinationSumTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/recusion/CombinationSumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="28" column="35" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#976#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,7 +138,13 @@
         <option value="$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java" />
         <option value="$PROJECT_DIR$/src/main/java/recusion/readme.MD" />
         <option value="$PROJECT_DIR$/src/main/java/recusion/README.MD" />
+        <option value="$PROJECT_DIR$/src/main/java/binarysearch/FindMinimum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/recusion/binarysearch/FindMinimumTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/binarysearch/FindFirstAndLast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/binarysearch/README.MD" />
+        <option value="$PROJECT_DIR$/src/test/java/binarysearch/FindMinimumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/binarysearch/FindClosestElements.java" />
       </list>
     </option>
   </component>
@@ -193,9 +166,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="260" />
-    <option name="y" value="4" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="259" />
+    <option name="y" value="17" />
     <option name="width" value="1446" />
     <option name="height" value="950" />
   </component>
@@ -237,7 +210,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="recusion" type="462c0819:PsiDirectoryNode" />
+              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test001" type="b2602c69:ProjectViewProjectNode" />
@@ -258,7 +231,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="recusion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,6 +270,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="recusion" />
       <recent name="sort" />
     </key>
@@ -297,55 +287,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PermutationTest.permutationTest">
+  <component name="RunManager" selected="JUnit.FindMinimumTest.findClosestElemetsTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="CombinationSumTest.combinationSumIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recusion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="recusion" />
-      <option name="MAIN_CLASS_NAME" value="recusion.CombinationSumTest" />
-      <option name="METHOD_NAME" value="combinationSumIITest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="CombinationSumTest.combinationSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recusion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="recusion" />
-      <option name="MAIN_CLASS_NAME" value="recusion.CombinationSumTest" />
-      <option name="METHOD_NAME" value="combinationSumTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="DecodeWaysTest.decodeWaysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test001" />
@@ -370,19 +314,65 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PalindromePartitioningTest.palindromePartitioningTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindMinimumTest.findClosestElemetsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recusion.*" />
+          <option name="PATTERN" value="binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="recusion" />
-      <option name="MAIN_CLASS_NAME" value="recusion.PalindromePartitioningTest" />
-      <option name="METHOD_NAME" value="palindromePartitioningTest" />
+      <option name="PACKAGE_NAME" value="binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="binarysearch.FindMinimumTest" />
+      <option name="METHOD_NAME" value="findClosestElemetsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FindMinimumTest.findFirstAndLastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="binarysearch.FindMinimumTest" />
+      <option name="METHOD_NAME" value="findFirstAndLastTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FindMinimumTest.findMinimumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="binarysearch.FindMinimumTest" />
+      <option name="METHOD_NAME" value="findMinimumTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -455,19 +445,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.CombinationSumTest.combinationSumTest" />
-      <item itemvalue="JUnit.CombinationSumTest.combinationSumIITest" />
-      <item itemvalue="JUnit.PalindromePartitioningTest.palindromePartitioningTest" />
       <item itemvalue="JUnit.DecodeWaysTest.decodeWaysTest" />
       <item itemvalue="JUnit.PermutationTest.permutationTest" />
+      <item itemvalue="JUnit.FindMinimumTest.findMinimumTest" />
+      <item itemvalue="JUnit.FindMinimumTest.findFirstAndLastTest" />
+      <item itemvalue="JUnit.FindMinimumTest.findClosestElemetsTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FindMinimumTest.findClosestElemetsTest" />
+        <item itemvalue="JUnit.FindMinimumTest.findFirstAndLastTest" />
+        <item itemvalue="JUnit.FindMinimumTest.findMinimumTest" />
         <item itemvalue="JUnit.PermutationTest.permutationTest" />
         <item itemvalue="JUnit.DecodeWaysTest.decodeWaysTest" />
-        <item itemvalue="JUnit.PalindromePartitioningTest.palindromePartitioningTest" />
-        <item itemvalue="JUnit.CombinationSumTest.combinationSumIITest" />
-        <item itemvalue="JUnit.CombinationSumTest.combinationSumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -482,7 +472,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573094091181</updated>
       <workItem from="1573094094632" duration="6547000" />
-      <workItem from="1573192833968" duration="37845000" />
+      <workItem from="1573192833968" duration="48307000" />
     </task>
     <task id="LOCAL-00001" summary="add merge sort">
       <created>1573193604576</created>
@@ -544,39 +534,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DecodeWaysTest_decodeWaysTest - 2019.11.12 at 15h 32m 02s.xml">
-      <configuration name="DecodeWaysTest.decodeWaysTest" configurationId="JUnit" />
+    <history-entry file="FindMinimumTest_findFirstAndLastTest - 2019.11.14 at 19h 16m 07s.xml">
+      <configuration name="FindMinimumTest.findFirstAndLastTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DecodeWaysTest_decodeWaysTest - 2019.11.12 at 15h 32m 09s.xml">
-      <configuration name="DecodeWaysTest.decodeWaysTest" configurationId="JUnit" />
+    <history-entry file="FindMinimumTest_findFirstAndLastTest - 2019.11.14 at 19h 16m 48s.xml">
+      <configuration name="FindMinimumTest.findFirstAndLastTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DecodeWaysTest_decodeWaysTest - 2019.11.12 at 15h 33m 50s.xml">
-      <configuration name="DecodeWaysTest.decodeWaysTest" configurationId="JUnit" />
+    <history-entry file="FindMinimumTest_findFirstAndLastTest - 2019.11.14 at 19h 17m 10s.xml">
+      <configuration name="FindMinimumTest.findFirstAndLastTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DecodeWaysTest_decodeWaysTest - 2019.11.12 at 15h 33m 56s.xml">
-      <configuration name="DecodeWaysTest.decodeWaysTest" configurationId="JUnit" />
+    <history-entry file="FindMinimumTest_findFirstAndLastTest - 2019.11.14 at 19h 17m 27s.xml">
+      <configuration name="FindMinimumTest.findFirstAndLastTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DecodeWaysTest_decodeWaysTest - 2019.11.12 at 15h 50m 10s.xml">
-      <configuration name="DecodeWaysTest.decodeWaysTest" configurationId="JUnit" />
+    <history-entry file="FindMinimumTest_findClosestElemetsTest - 2019.11.14 at 19h 56m 43s.xml">
+      <configuration name="FindMinimumTest.findClosestElemetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DecodeWaysTest_decodeWaysTest - 2019.11.12 at 15h 52m 40s.xml">
-      <configuration name="DecodeWaysTest.decodeWaysTest" configurationId="JUnit" />
+    <history-entry file="FindMinimumTest_findClosestElemetsTest - 2019.11.14 at 19h 56m 57s.xml">
+      <configuration name="FindMinimumTest.findClosestElemetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DecodeWaysTest_decodeWaysTest - 2019.11.12 at 15h 53m 11s.xml">
-      <configuration name="DecodeWaysTest.decodeWaysTest" configurationId="JUnit" />
+    <history-entry file="FindMinimumTest_findClosestElemetsTest - 2019.11.14 at 19h 58m 04s.xml">
+      <configuration name="FindMinimumTest.findClosestElemetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DecodeWaysTest_decodeWaysTest - 2019.11.12 at 15h 54m 14s.xml">
-      <configuration name="DecodeWaysTest.decodeWaysTest" configurationId="JUnit" />
+    <history-entry file="FindMinimumTest_findClosestElemetsTest - 2019.11.14 at 19h 59m 31s.xml">
+      <configuration name="FindMinimumTest.findClosestElemetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DecodeWaysTest_decodeWaysTest - 2019.11.12 at 15h 54m 46s.xml">
-      <configuration name="DecodeWaysTest.decodeWaysTest" configurationId="JUnit" />
+    <history-entry file="FindMinimumTest_findClosestElemetsTest - 2019.11.14 at 20h 00m 25s.xml">
+      <configuration name="FindMinimumTest.findClosestElemetsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DecodeWaysTest_decodeWaysTest - 2019.11.12 at 15h 54m 59s.xml">
-      <configuration name="DecodeWaysTest.decodeWaysTest" configurationId="JUnit" />
+    <history-entry file="FindMinimumTest_findClosestElemetsTest - 2019.11.14 at 20h 01m 08s.xml">
+      <configuration name="FindMinimumTest.findClosestElemetsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44392000" />
+    <option name="totallyTimeSpent" value="54854000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -588,8 +578,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="4" width="1446" height="950" extended-state="0" />
-    <editor active="true" />
+    <frame x="259" y="17" width="1446" height="950" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -601,7 +590,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3299748" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26986128" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21311475" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32912987" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -703,8 +692,25 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recusion/Permutation.java</url>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/binarysearch/FindMinimum.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/binarysearch/FindFirstAndLast.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="23" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -753,16 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -777,41 +773,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/recusion/PermutationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/ToIntFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/recusion/SubsetsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/PermutationII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#1872#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -826,42 +791,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/recusion/CombinationSumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="28" column="35" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/Subsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/SubsetsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -907,6 +841,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="50" column="50" lean-forward="true" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#794#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/recusion/PermutationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/recusion/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -917,23 +882,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/SubsetsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="42" column="51" lean-forward="true" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#1127#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="96">
-            <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <first_editor relative-caret-position="144">
+            <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/PermutationII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
+        <state relative-caret-position="624">
+          <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
           <folding>
-            <element signature="e#0#794#0" expanded="true" />
+            <element signature="e#0#1872#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="458">
+            <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindMinimum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/recusion/SubsetsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/binarysearch/FindMinimumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="35" column="77" lean-forward="true" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindFirstAndLast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindClosestElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
           </folding>
         </state>
       </provider>

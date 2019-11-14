@@ -4,6 +4,7 @@
 * 基础算法
   * 排序
   * 查找
+ * [二分法](src/main/java/binarysearch/README.MD)
  * [递归](/src/main/java/recusion/README.MD)
  * 分治
  * 链表
