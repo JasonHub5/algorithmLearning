@@ -49,4 +49,6 @@ class Solution{
 ### 练习题
 * [寻找旋转排序数组中的最小值](FindMinimum.java)
 * [在排序数组中查找元素的第一个和最后一个位置](FindFirstAndLast.java)
-* [找到 K 个最接近的元素]()
+* [查找第一个大于等于target的值的索引](FindFirstCloseEqual.java)
+* [查找第一个大于target的值的索引，如果等于最大索引](FindFirstCloseEqual.java)
+* [找到 K 个最接近的元素](FindClosestElements.java)

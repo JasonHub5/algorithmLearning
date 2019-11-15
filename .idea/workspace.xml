@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="585c2257-cdf9-4a24-8cda-5f89f1c3cb22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/FindClosestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/FindFirstAndLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/FindMinimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binarysearch/FindMinimumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarysearch/FindFirstCloseEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/binarysearch/FindFirstCloseEqualTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,25 +29,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindClosestElements.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindClosestElements.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindClosestElements.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="512">
               <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
               <folding>
                 <element signature="e#0#69#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,8 +56,41 @@
       <file leaf-file-name="FindMinimumTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/binarysearch/FindMinimumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="35" column="77" lean-forward="true" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="78" />
+            <state relative-caret-position="416">
+              <caret line="32" column="89" selection-start-line="32" selection-start-column="89" selection-end-line="32" selection-end-column="89" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindFirstCloseEqual.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindFirstCloseEqual.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="64" column="44" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindFirstCloseEqualTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/binarysearch/FindFirstCloseEqualTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecodeWaysTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/recusion/DecodeWaysTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,8 +160,11 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/binarysearch/FindFirstAndLast.java" />
         <option value="$PROJECT_DIR$/src/main/java/binarysearch/README.MD" />
-        <option value="$PROJECT_DIR$/src/test/java/binarysearch/FindMinimumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/binarysearch/FindClosestElements.java" />
+        <option value="$PROJECT_DIR$/src/test/java/binarysearch/FindMinimumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/binarysearch/FindFirstGreaterEqual.java" />
+        <option value="$PROJECT_DIR$/src/main/java/binarysearch/FindFirstCloseEqual.java" />
+        <option value="$PROJECT_DIR$/src/test/java/binarysearch/FindFirstCloseEqualTest.java" />
       </list>
     </option>
   </component>
@@ -167,8 +187,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="259" />
-    <option name="y" value="17" />
+    <option name="x" value="229" />
+    <option name="y" value="29" />
     <option name="width" value="1446" />
     <option name="height" value="950" />
   </component>
@@ -287,23 +307,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FindMinimumTest.findClosestElemetsTest">
+  <component name="RunManager" selected="JUnit.FindFirstCloseEqualTest.lte2Test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="DecodeWaysTest.decodeWaysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindFirstCloseEqualTest.glTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recusion.*" />
+          <option name="PATTERN" value="binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="recusion" />
-      <option name="MAIN_CLASS_NAME" value="recusion.DecodeWaysTest" />
-      <option name="METHOD_NAME" value="decodeWaysTest" />
+      <option name="PACKAGE_NAME" value="binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="binarysearch.FindFirstCloseEqualTest" />
+      <option name="METHOD_NAME" value="glTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FindFirstCloseEqualTest.gleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="binarysearch.FindFirstCloseEqualTest" />
+      <option name="METHOD_NAME" value="gleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FindFirstCloseEqualTest.lte2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="binarysearch.FindFirstCloseEqualTest" />
+      <option name="METHOD_NAME" value="lte2Test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -360,52 +426,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FindMinimumTest.findMinimumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarysearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="binarysearch" />
-      <option name="MAIN_CLASS_NAME" value="binarysearch.FindMinimumTest" />
-      <option name="METHOD_NAME" value="findMinimumTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="PermutationTest.permutationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recusion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="recusion" />
-      <option name="MAIN_CLASS_NAME" value="recusion.PermutationTest" />
-      <option name="METHOD_NAME" value="permutationTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -445,19 +465,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.DecodeWaysTest.decodeWaysTest" />
-      <item itemvalue="JUnit.PermutationTest.permutationTest" />
-      <item itemvalue="JUnit.FindMinimumTest.findMinimumTest" />
       <item itemvalue="JUnit.FindMinimumTest.findFirstAndLastTest" />
       <item itemvalue="JUnit.FindMinimumTest.findClosestElemetsTest" />
+      <item itemvalue="JUnit.FindFirstCloseEqualTest.gleTest" />
+      <item itemvalue="JUnit.FindFirstCloseEqualTest.glTest" />
+      <item itemvalue="JUnit.FindFirstCloseEqualTest.lte2Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FindFirstCloseEqualTest.lte2Test" />
+        <item itemvalue="JUnit.FindFirstCloseEqualTest.glTest" />
+        <item itemvalue="JUnit.FindFirstCloseEqualTest.gleTest" />
         <item itemvalue="JUnit.FindMinimumTest.findClosestElemetsTest" />
         <item itemvalue="JUnit.FindMinimumTest.findFirstAndLastTest" />
-        <item itemvalue="JUnit.FindMinimumTest.findMinimumTest" />
-        <item itemvalue="JUnit.PermutationTest.permutationTest" />
-        <item itemvalue="JUnit.DecodeWaysTest.decodeWaysTest" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +492,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573094091181</updated>
       <workItem from="1573094094632" duration="6547000" />
-      <workItem from="1573192833968" duration="48307000" />
+      <workItem from="1573192833968" duration="50784000" />
     </task>
     <task id="LOCAL-00001" summary="add merge sort">
       <created>1573193604576</created>
@@ -530,25 +550,24 @@
       <option name="project" value="LOCAL" />
       <updated>1573548210496</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add binary search">
+      <created>1573733395322</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573733395322</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add binary search">
+      <created>1573733416587</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573733416587</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindMinimumTest_findFirstAndLastTest - 2019.11.14 at 19h 16m 07s.xml">
-      <configuration name="FindMinimumTest.findFirstAndLastTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindMinimumTest_findFirstAndLastTest - 2019.11.14 at 19h 16m 48s.xml">
-      <configuration name="FindMinimumTest.findFirstAndLastTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindMinimumTest_findFirstAndLastTest - 2019.11.14 at 19h 17m 10s.xml">
-      <configuration name="FindMinimumTest.findFirstAndLastTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindMinimumTest_findFirstAndLastTest - 2019.11.14 at 19h 17m 27s.xml">
-      <configuration name="FindMinimumTest.findFirstAndLastTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindMinimumTest_findClosestElemetsTest - 2019.11.14 at 19h 56m 43s.xml">
-      <configuration name="FindMinimumTest.findClosestElemetsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FindMinimumTest_findClosestElemetsTest - 2019.11.14 at 19h 56m 57s.xml">
       <configuration name="FindMinimumTest.findClosestElemetsTest" configurationId="JUnit" />
     </history-entry>
@@ -564,9 +583,24 @@
     <history-entry file="FindMinimumTest_findClosestElemetsTest - 2019.11.14 at 20h 01m 08s.xml">
       <configuration name="FindMinimumTest.findClosestElemetsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FindFirstCloseEqualTest_gleTest - 2019.11.15 at 10h 21m 50s.xml">
+      <configuration name="FindFirstCloseEqualTest.gleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindFirstCloseEqualTest_gleTest - 2019.11.15 at 10h 22m 07s.xml">
+      <configuration name="FindFirstCloseEqualTest.gleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindFirstCloseEqualTest_gleTest - 2019.11.15 at 10h 24m 47s.xml">
+      <configuration name="FindFirstCloseEqualTest.gleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindFirstCloseEqualTest_glTest - 2019.11.15 at 10h 26m 22s.xml">
+      <configuration name="FindFirstCloseEqualTest.glTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindFirstCloseEqualTest_glTest - 2019.11.15 at 10h 26m 49s.xml">
+      <configuration name="FindFirstCloseEqualTest.glTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54854000" />
+    <option name="totallyTimeSpent" value="57331000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -578,7 +612,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="259" y="17" width="1446" height="950" extended-state="0" />
+    <frame x="229" y="29" width="1446" height="950" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -590,12 +625,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3299748" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21311475" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21311475" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32912987" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24891774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24891774" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32912987" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -632,7 +667,8 @@
     <MESSAGE value="add recusion" />
     <MESSAGE value="add subsets" />
     <MESSAGE value="add some recusion questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some recusion questions" />
+    <MESSAGE value="add binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="add binary search" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -811,16 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/recusion/DecodeWaysTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/recusion/CombinationSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -836,17 +862,6 @@
         <state relative-caret-position="16">
           <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="50" column="50" lean-forward="true" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#794#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -925,16 +940,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -965,16 +970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/binarysearch/FindMinimumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="35" column="77" lean-forward="true" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindFirstAndLast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -985,12 +980,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recusion/DecodeWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/recusion/DecodeWaysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindClosestElements.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
           <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding>
             <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/binarysearch/FindMinimumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="32" column="89" selection-start-line="32" selection-start-column="89" selection-end-line="32" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/binarysearch/FindFirstCloseEqual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="64" column="44" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/binarysearch/FindFirstCloseEqualTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
