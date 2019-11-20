@@ -26,15 +26,15 @@ public class FindKthElement {
         return findKth(nums, 0, nums.length - 1, k);
     }
 
-    public static int findKth(int[] nums, int left, int right, int k) {
+    private static int findKth(int[] nums, int left, int right, int k) {
         int pivot = nums[left];
         int i = left + 1;
         int j = right;
-        while (i < j) {
-            while (i < j && nums[j] > pivot) {
+        while (i <= j) {
+            while (i <= j && nums[j] >= pivot) {
                 j--;
             }
-            while (i < j && nums[i] < pivot) {
+            while (i <= j && nums[i] <= pivot) {
                 i++;
             }
 
@@ -44,15 +44,15 @@ public class FindKthElement {
 
             int temp = nums[i];
             nums[i] = nums[j];
-            nums[j] = nums[i];
+            nums[j] = temp;
         }
 
         nums[left] = nums[j];
         nums[j] = pivot;
 
-        if (j == k) {
-            return nums[pivot];
-        } else if (j > k) {
+        if (j == nums.length - k) {
+            return pivot;
+        } else if (j > (nums.length - k)) {
             return findKth(nums, left, j - 1, k);
         } else {
             return findKth(nums, j + 1, right, k);

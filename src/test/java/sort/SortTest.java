@@ -28,7 +28,7 @@ public class SortTest {
 
     @Test
     public void quickSortTest() {
-        int[] arr = {10, 23, 2, 4, 5, 7, 24, 1};
+        int[] arr = {3, 2, 3, 1, 2, 4, 5, 5, 6};
 
         int[] ints = QuickSort.quickSort(arr, 0, arr.length - 1);
 

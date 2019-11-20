@@ -15,7 +15,7 @@ public class QuickSort {
             return arr;
         }
 
-        int pivot = partition2(arr, left, right);
+        int pivot = partition1(arr, left, right);
         quickSort(arr, left, pivot - 1);
         quickSort(arr, pivot + 1, right);
 
@@ -35,13 +35,13 @@ public class QuickSort {
         int i = left + 1;
         int j = right;
 
-        while (i < j) {
+        while (i <= j) {
             //从右边开始
-            while (i < j && arr[j] >= pivot) {
+            while (i <= j && arr[j] >= pivot) {
                 j--;
             }
             //再遍历左边
-            while (i < j && arr[i] <= pivot) {
+            while (i <= j && arr[i] <= pivot) {
                 i++;
             }
 
@@ -72,7 +72,7 @@ public class QuickSort {
         int i = left + 1;
         int j = right;
 
-        while (i < j) {
+        while (i <= j) {
             //从左边开始
             while (i <= j && arr[i] <= pivot) {
                 i++;

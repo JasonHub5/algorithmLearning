@@ -6,7 +6,7 @@
   * 查找
  * [二分法](src/main/java/binarysearch/README.MD)
  * [递归](/src/main/java/recusion/README.MD)
- * 分治
+ * [分治](/src/main/java/dc/README.MD)
  * 链表
  * 堆栈
  * 队列
