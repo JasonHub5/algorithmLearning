@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="585c2257-cdf9-4a24-8cda-5f89f1c3cb22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dc/FindCoin.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dc/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dc/ReversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linklist/README.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dc/FindKthElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dc/FindKthElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dc/FindPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dc/FindPeakElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dc/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dc/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/dc/PublicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dc/DivideAndConquerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/sort/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/sort/SortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sort/SortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/sort/SortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dc/DivideAndConquerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dc/DivideAndConquerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,13 +17,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test001" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="469">
+              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,22 +39,9 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="208">
-                <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+                <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaximumSubarray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dc/MaximumSubarray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-              <folding>
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -67,40 +50,31 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <first_editor relative-caret-position="176">
+                <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sort/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+      <file leaf-file-name="README.MD" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/linklist/README.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="208">
+                <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindKthElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dc/FindKthElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DivideAndConquerTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DivideAndConquerTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/dc/DivideAndConquerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="581">
+              <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,23 +82,151 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sort/MergeSort.java">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+            <state relative-caret-position="288">
+              <caret line="96" column="27" lean-forward="true" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+              <folding>
+                <element signature="docComment;class#LinkedList#0" />
+                <element signature="e#3058#3099#0" />
+                <element signature="e#3134#3174#0" />
+                <element signature="e#3396#3440#0" />
+                <element signature="e#3396#3472#0" />
+                <element signature="e#3478#3800#0" />
+                <element signature="e#3478#3892#0" />
+                <element signature="e#3898#3942#0" />
+                <element signature="e#3898#4226#0" />
+                <element signature="e#4232#4275#0" />
+                <element signature="e#4232#4549#0" />
+                <element signature="e#4555#4618#0" />
+                <element signature="e#4555#4962#0" />
+                <element signature="e#4968#5017#0" />
+                <element signature="e#4968#5409#0" />
+                <element signature="e#5415#5463#0" />
+                <element signature="e#5415#5853#0" />
+                <element signature="e#5859#5902#0" />
+                <element signature="e#5859#6432#0" />
+                <element signature="e#6438#6609#0" />
+                <element signature="e#6438#6768#0" />
+                <element signature="e#6774#6943#0" />
+                <element signature="e#6774#7100#0" />
+                <element signature="e#7106#7293#0" />
+                <element signature="e#7106#7463#0" />
+                <element signature="e#7469#7654#0" />
+                <element signature="e#7469#7821#0" />
+                <element signature="e#7827#7948#0" />
+                <element signature="e#8014#8189#0" />
+                <element signature="e#8253#8646#0" />
+                <element signature="e#8730#8851#0" />
+                <element signature="e#8908#9173#0" />
+                <element signature="e#8908#9251#0" />
+                <element signature="e#9257#9891#0" />
+                <element signature="e#9257#10401#0" />
+                <element signature="e#10407#11052#0" />
+                <element signature="e#11151#11946#0" />
+                <element signature="e#11151#12872#0" />
+                <element signature="e#12878#12995#0" />
+                <element signature="e#12878#13543#0" />
+                <element signature="e#13030#13095#0" />
+                <element signature="e#13587#13844#0" />
+                <element signature="e#13587#13947#0" />
+                <element signature="e#13953#14313#0" />
+                <element signature="e#13953#14503#0" />
+                <element signature="e#14509#14918#0" />
+                <element signature="e#14509#15121#0" />
+                <element signature="e#15127#15536#0" />
+                <element signature="e#15127#15645#0" />
+                <element signature="e#15651#15728#0" />
+                <element signature="e#15831#15948#0" />
+                <element signature="e#16053#16267#0" />
+                <element signature="e#16374#16531#0" />
+                <element signature="e#16537#16696#0" />
+                <element signature="e#16702#16780#0" />
+                <element signature="e#16702#17176#0" />
+                <element signature="e#17208#17708#0" />
+                <element signature="e#17208#18185#0" />
+                <element signature="e#18191#18690#0" />
+                <element signature="e#18191#19172#0" />
+                <element signature="e#19204#19394#0" />
+                <element signature="e#19204#19499#0" />
+                <element signature="e#19505#19716#0" />
+                <element signature="e#19780#19960#0" />
+                <element signature="e#19780#20073#0" />
+                <element signature="e#20079#20280#0" />
+                <element signature="e#20346#20558#0" />
+                <element signature="e#20649#20858#0" />
+                <element signature="e#20649#20943#0" />
+                <element signature="e#20949#21155#0" />
+                <element signature="e#20949#21238#0" />
+                <element signature="e#21244#21505#0" />
+                <element signature="e#21244#21616#0" />
+                <element signature="e#21622#21881#0" />
+                <element signature="e#21622#21989#0" />
+                <element signature="e#21995#22242#0" />
+                <element signature="e#21995#22360#0" />
+                <element signature="e#22366#22611#0" />
+                <element signature="e#22366#22726#0" />
+                <element signature="e#22732#23006#0" />
+                <element signature="e#23067#23498#0" />
+                <element signature="e#23561#23928#0" />
+                <element signature="e#24019#24385#0" />
+                <element signature="e#24019#24907#0" />
+                <element signature="e#24913#26033#0" />
+                <element signature="e#24913#26162#0" />
+                <element signature="e#26168#28921#0" />
+                <element signature="e#26376#26540#0" />
+                <element signature="e#26633#26905#0" />
+                <element signature="e#26999#27285#0" />
+                <element signature="e#27451#27877#0" />
+                <element signature="e#27887#28081#0" />
+                <element signature="e#28091#28364#0" />
+                <element signature="e#28374#28751#0" />
+                <element signature="e#28761#28915#0" />
+                <element signature="e#28927#29181#0" />
+                <element signature="e#29027#29175#0" />
+                <element signature="e#29187#29216#0" />
+                <element signature="e#29315#29394#0" />
+                <element signature="e#29315#29740#0" />
+                <element signature="e#29746#29986#0" />
+                <element signature="e#29992#30183#0" />
+                <element signature="e#29992#30552#0" />
+                <element signature="e#30558#31135#0" />
+                <element signature="e#30558#31348#0" />
+                <element signature="e#31354#33348#0" />
+                <element signature="e#31354#33798#0" />
+                <element signature="e#33875#34200#0" />
+                <element signature="e#33875#34585#0" />
+                <element signature="e#34591#34705#0" />
+                <element signature="e#34591#35136#0" />
+                <element signature="e#35142#35806#0" />
+                <element signature="e#35923#35986#0" />
+                <element signature="e#35923#39161#0" />
+                <element signature="e#36529#36717#0" />
+                <element signature="e#36727#37156#0" />
+                <element signature="e#37166#37220#0" />
+                <element signature="e#37230#37898#0" />
+                <element signature="e#37908#38491#0" />
+                <element signature="e#38501#39022#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assert.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-rc-1/junit-4.13-rc-1.jar!/org/junit/Assert.class">
+      <file leaf-file-name="ReversePairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dc/ReversePairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="237" selection-start-line="237" selection-end-line="237" />
-              <folding>
-                <element signature="e#8427#8428#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="48">
+              <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sort/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -185,13 +287,15 @@
         <option value="$PROJECT_DIR$/src/test/java/dc/PublicTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/dc/FindPeakElement.java" />
-        <option value="$PROJECT_DIR$/src/test/java/sort/SortTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/dc/FindKthElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/dc/FindCoin.MD" />
-        <option value="$PROJECT_DIR$/src/main/java/dc/README.MD" />
-        <option value="$PROJECT_DIR$/src/test/java/dc/DivideAndConquerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/dc/MaximumSubarray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/sort/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dc/ReversePairs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dc/README.MD" />
+        <option value="$PROJECT_DIR$/src/main/java/linklist/README.MD" />
+        <option value="$PROJECT_DIR$/src/test/java/dc/DivideAndConquerTest.java" />
       </list>
     </option>
   </component>
@@ -215,9 +319,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="152" />
-    <option name="y" value="31" />
+    <option name="y" value="30" />
     <option name="width" value="1446" />
-    <option name="height" value="950" />
+    <option name="height" value="951" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -257,14 +361,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -273,7 +369,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="linklist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test001" type="b2602c69:ProjectViewProjectNode" />
@@ -345,6 +441,9 @@
       <recent name="recusion" />
       <recent name="sort" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myproject\java\jiangwu.practise\test001\src\main\java\linklist" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -358,32 +457,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DivideAndConquerTest.MaximumSubTest">
+  <component name="RunManager" selected="JUnit.DivideAndConquerTest.ReversePairsTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="DivideAndConquerTest.ExponentCalculationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="dc" />
-      <option name="MAIN_CLASS_NAME" value="dc.DivideAndConquerTest" />
-      <option name="METHOD_NAME" value="ExponentCalculationTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="DivideAndConquerTest.FindKthElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test001" />
@@ -408,29 +484,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="DivideAndConquerTest.FindPeakElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="dc" />
-      <option name="MAIN_CLASS_NAME" value="dc.DivideAndConquerTest" />
-      <option name="METHOD_NAME" value="FindPeakElementTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="DivideAndConquerTest.MaximumSubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test001" />
       <extension name="coverage">
@@ -444,6 +497,52 @@
       <option name="PACKAGE_NAME" value="dc" />
       <option name="MAIN_CLASS_NAME" value="dc.DivideAndConquerTest" />
       <option name="METHOD_NAME" value="MaximumSubTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DivideAndConquerTest.ReversePairsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="dc" />
+      <option name="MAIN_CLASS_NAME" value="dc.DivideAndConquerTest" />
+      <option name="METHOD_NAME" value="ReversePairsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SortTest.mergeSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="sort" />
+      <option name="MAIN_CLASS_NAME" value="sort.SortTest" />
+      <option name="METHOD_NAME" value="mergeSortTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -516,19 +615,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.DivideAndConquerTest.ExponentCalculationTest" />
-      <item itemvalue="JUnit.DivideAndConquerTest.FindPeakElementTest" />
       <item itemvalue="JUnit.DivideAndConquerTest.FindKthElementTest" />
       <item itemvalue="JUnit.SortTest.quickSortTest" />
       <item itemvalue="JUnit.DivideAndConquerTest.MaximumSubTest" />
+      <item itemvalue="JUnit.DivideAndConquerTest.ReversePairsTest" />
+      <item itemvalue="JUnit.SortTest.mergeSortTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DivideAndConquerTest.ReversePairsTest" />
+        <item itemvalue="JUnit.SortTest.mergeSortTest" />
         <item itemvalue="JUnit.DivideAndConquerTest.MaximumSubTest" />
         <item itemvalue="JUnit.DivideAndConquerTest.FindKthElementTest" />
         <item itemvalue="JUnit.SortTest.quickSortTest" />
-        <item itemvalue="JUnit.DivideAndConquerTest.FindPeakElementTest" />
-        <item itemvalue="JUnit.DivideAndConquerTest.ExponentCalculationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -543,7 +642,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573094091181</updated>
       <workItem from="1573094094632" duration="6547000" />
-      <workItem from="1573192833968" duration="71504000" />
+      <workItem from="1573192833968" duration="77468000" />
     </task>
     <task id="LOCAL-00001" summary="add merge sort">
       <created>1573193604576</created>
@@ -629,43 +728,50 @@
       <option name="project" value="LOCAL" />
       <updated>1574165768056</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add some dc">
+      <created>1574249939957</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574249939957</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DivideAndConquerTest_MaximumSubTest - 2019.11.20 at 17h 32m 30s.xml">
-      <configuration name="DivideAndConquerTest.MaximumSubTest" configurationId="JUnit" />
+    <history-entry file="DivideAndConquerTest_ReversePairsTest - 2019.11.21 at 11h 49m 57s.xml">
+      <configuration name="DivideAndConquerTest.ReversePairsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DivideAndConquerTest_MaximumSubTest - 2019.11.20 at 17h 35m 52s.xml">
-      <configuration name="DivideAndConquerTest.MaximumSubTest" configurationId="JUnit" />
+    <history-entry file="DivideAndConquerTest_ReversePairsTest - 2019.11.21 at 11h 50m 22s.xml">
+      <configuration name="DivideAndConquerTest.ReversePairsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DivideAndConquerTest_MaximumSubTest - 2019.11.20 at 17h 37m 23s.xml">
-      <configuration name="DivideAndConquerTest.MaximumSubTest" configurationId="JUnit" />
+    <history-entry file="DivideAndConquerTest_ReversePairsTest - 2019.11.21 at 13h 38m 18s.xml">
+      <configuration name="DivideAndConquerTest.ReversePairsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DivideAndConquerTest_MaximumSubTest - 2019.11.20 at 17h 37m 33s.xml">
-      <configuration name="DivideAndConquerTest.MaximumSubTest" configurationId="JUnit" />
+    <history-entry file="DivideAndConquerTest_ReversePairsTest - 2019.11.21 at 13h 43m 56s.xml">
+      <configuration name="DivideAndConquerTest.ReversePairsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DivideAndConquerTest_MaximumSubTest - 2019.11.20 at 17h 37m 40s.xml">
-      <configuration name="DivideAndConquerTest.MaximumSubTest" configurationId="JUnit" />
+    <history-entry file="DivideAndConquerTest_ReversePairsTest - 2019.11.21 at 13h 44m 46s.xml">
+      <configuration name="DivideAndConquerTest.ReversePairsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DivideAndConquerTest_MaximumSubTest - 2019.11.20 at 17h 39m 31s.xml">
-      <configuration name="DivideAndConquerTest.MaximumSubTest" configurationId="JUnit" />
+    <history-entry file="DivideAndConquerTest_ReversePairsTest - 2019.11.21 at 13h 45m 06s.xml">
+      <configuration name="DivideAndConquerTest.ReversePairsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DivideAndConquerTest_MaximumSubTest - 2019.11.20 at 17h 40m 13s.xml">
-      <configuration name="DivideAndConquerTest.MaximumSubTest" configurationId="JUnit" />
+    <history-entry file="DivideAndConquerTest_ReversePairsTest - 2019.11.21 at 13h 48m 38s.xml">
+      <configuration name="DivideAndConquerTest.ReversePairsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DivideAndConquerTest_MaximumSubTest - 2019.11.20 at 17h 40m 46s.xml">
-      <configuration name="DivideAndConquerTest.MaximumSubTest" configurationId="JUnit" />
+    <history-entry file="DivideAndConquerTest_ReversePairsTest - 2019.11.21 at 13h 49m 33s.xml">
+      <configuration name="DivideAndConquerTest.ReversePairsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DivideAndConquerTest_MaximumSubTest - 2019.11.20 at 17h 42m 17s.xml">
-      <configuration name="DivideAndConquerTest.MaximumSubTest" configurationId="JUnit" />
+    <history-entry file="DivideAndConquerTest_ReversePairsTest - 2019.11.21 at 13h 50m 04s.xml">
+      <configuration name="DivideAndConquerTest.ReversePairsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DivideAndConquerTest_MaximumSubTest - 2019.11.20 at 17h 42m 28s.xml">
-      <configuration name="DivideAndConquerTest.MaximumSubTest" configurationId="JUnit" />
+    <history-entry file="DivideAndConquerTest_ReversePairsTest - 2019.11.21 at 13h 50m 33s.xml">
+      <configuration name="DivideAndConquerTest.ReversePairsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78051000" />
+    <option name="totallyTimeSpent" value="84015000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -677,7 +783,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="31" width="1446" height="950" extended-state="0" />
+    <frame x="152" y="30" width="1446" height="951" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -689,7 +796,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3299748" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3404792" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34005037" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.5422446" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -733,7 +840,8 @@
     <MESSAGE value="add some recusion questions" />
     <MESSAGE value="add some dc info" />
     <MESSAGE value="add binary search" />
-    <option name="LAST_COMMIT_MESSAGE" value="add binary search" />
+    <MESSAGE value="add some dc" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some dc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -852,8 +960,14 @@
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dc/ReversePairs.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="40" />
+      <option name="time" value="43" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -1134,57 +1248,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-rc-1/junit-4.13-rc-1.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="237" selection-start-line="237" selection-end-line="237" />
-          <folding>
-            <element signature="e#8427#8428#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dc/FindKthElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1198,33 +1265,227 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dc/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dc/FindKthElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-rc-1/junit-4.13-rc-1.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+          <folding>
+            <element signature="e#8427#8428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dc/ReversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dc/MaximumSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="445">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="20" />
           <folding>
+            <element signature="e#0#1857#0" expanded="true" />
             <element signature="e#516#517#0" expanded="true" />
             <element signature="e#571#572#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/dc/DivideAndConquerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dc/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/linklist/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/sort/SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="469">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dc/DivideAndConquerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="96" column="27" lean-forward="true" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+          <folding>
+            <element signature="docComment;class#LinkedList#0" />
+            <element signature="e#3058#3099#0" />
+            <element signature="e#3134#3174#0" />
+            <element signature="e#3396#3440#0" />
+            <element signature="e#3396#3472#0" />
+            <element signature="e#3478#3800#0" />
+            <element signature="e#3478#3892#0" />
+            <element signature="e#3898#3942#0" />
+            <element signature="e#3898#4226#0" />
+            <element signature="e#4232#4275#0" />
+            <element signature="e#4232#4549#0" />
+            <element signature="e#4555#4618#0" />
+            <element signature="e#4555#4962#0" />
+            <element signature="e#4968#5017#0" />
+            <element signature="e#4968#5409#0" />
+            <element signature="e#5415#5463#0" />
+            <element signature="e#5415#5853#0" />
+            <element signature="e#5859#5902#0" />
+            <element signature="e#5859#6432#0" />
+            <element signature="e#6438#6609#0" />
+            <element signature="e#6438#6768#0" />
+            <element signature="e#6774#6943#0" />
+            <element signature="e#6774#7100#0" />
+            <element signature="e#7106#7293#0" />
+            <element signature="e#7106#7463#0" />
+            <element signature="e#7469#7654#0" />
+            <element signature="e#7469#7821#0" />
+            <element signature="e#7827#7948#0" />
+            <element signature="e#8014#8189#0" />
+            <element signature="e#8253#8646#0" />
+            <element signature="e#8730#8851#0" />
+            <element signature="e#8908#9173#0" />
+            <element signature="e#8908#9251#0" />
+            <element signature="e#9257#9891#0" />
+            <element signature="e#9257#10401#0" />
+            <element signature="e#10407#11052#0" />
+            <element signature="e#11151#11946#0" />
+            <element signature="e#11151#12872#0" />
+            <element signature="e#12878#12995#0" />
+            <element signature="e#12878#13543#0" />
+            <element signature="e#13030#13095#0" />
+            <element signature="e#13587#13844#0" />
+            <element signature="e#13587#13947#0" />
+            <element signature="e#13953#14313#0" />
+            <element signature="e#13953#14503#0" />
+            <element signature="e#14509#14918#0" />
+            <element signature="e#14509#15121#0" />
+            <element signature="e#15127#15536#0" />
+            <element signature="e#15127#15645#0" />
+            <element signature="e#15651#15728#0" />
+            <element signature="e#15831#15948#0" />
+            <element signature="e#16053#16267#0" />
+            <element signature="e#16374#16531#0" />
+            <element signature="e#16537#16696#0" />
+            <element signature="e#16702#16780#0" />
+            <element signature="e#16702#17176#0" />
+            <element signature="e#17208#17708#0" />
+            <element signature="e#17208#18185#0" />
+            <element signature="e#18191#18690#0" />
+            <element signature="e#18191#19172#0" />
+            <element signature="e#19204#19394#0" />
+            <element signature="e#19204#19499#0" />
+            <element signature="e#19505#19716#0" />
+            <element signature="e#19780#19960#0" />
+            <element signature="e#19780#20073#0" />
+            <element signature="e#20079#20280#0" />
+            <element signature="e#20346#20558#0" />
+            <element signature="e#20649#20858#0" />
+            <element signature="e#20649#20943#0" />
+            <element signature="e#20949#21155#0" />
+            <element signature="e#20949#21238#0" />
+            <element signature="e#21244#21505#0" />
+            <element signature="e#21244#21616#0" />
+            <element signature="e#21622#21881#0" />
+            <element signature="e#21622#21989#0" />
+            <element signature="e#21995#22242#0" />
+            <element signature="e#21995#22360#0" />
+            <element signature="e#22366#22611#0" />
+            <element signature="e#22366#22726#0" />
+            <element signature="e#22732#23006#0" />
+            <element signature="e#23067#23498#0" />
+            <element signature="e#23561#23928#0" />
+            <element signature="e#24019#24385#0" />
+            <element signature="e#24019#24907#0" />
+            <element signature="e#24913#26033#0" />
+            <element signature="e#24913#26162#0" />
+            <element signature="e#26168#28921#0" />
+            <element signature="e#26376#26540#0" />
+            <element signature="e#26633#26905#0" />
+            <element signature="e#26999#27285#0" />
+            <element signature="e#27451#27877#0" />
+            <element signature="e#27887#28081#0" />
+            <element signature="e#28091#28364#0" />
+            <element signature="e#28374#28751#0" />
+            <element signature="e#28761#28915#0" />
+            <element signature="e#28927#29181#0" />
+            <element signature="e#29027#29175#0" />
+            <element signature="e#29187#29216#0" />
+            <element signature="e#29315#29394#0" />
+            <element signature="e#29315#29740#0" />
+            <element signature="e#29746#29986#0" />
+            <element signature="e#29992#30183#0" />
+            <element signature="e#29992#30552#0" />
+            <element signature="e#30558#31135#0" />
+            <element signature="e#30558#31348#0" />
+            <element signature="e#31354#33348#0" />
+            <element signature="e#31354#33798#0" />
+            <element signature="e#33875#34200#0" />
+            <element signature="e#33875#34585#0" />
+            <element signature="e#34591#34705#0" />
+            <element signature="e#34591#35136#0" />
+            <element signature="e#35142#35806#0" />
+            <element signature="e#35923#35986#0" />
+            <element signature="e#35923#39161#0" />
+            <element signature="e#36529#36717#0" />
+            <element signature="e#36727#37156#0" />
+            <element signature="e#37166#37220#0" />
+            <element signature="e#37230#37898#0" />
+            <element signature="e#37908#38491#0" />
+            <element signature="e#38501#39022#0" />
           </folding>
         </state>
       </provider>

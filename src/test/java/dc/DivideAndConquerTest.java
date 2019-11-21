@@ -4,6 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.Arrays;
+import java.util.LinkedList;
 
 public class DivideAndConquerTest {
     @Test
@@ -46,5 +47,11 @@ public class DivideAndConquerTest {
 
         int maxSub3 = MaximumSubarray.maxSubArray(new int[]{-2, -1, 1});
         Assert.assertEquals(maxSub3, 1);
+    }
+
+    @Test
+    public void ReversePairsTest() {
+        int i = ReversePairs.reversPairs(new int[]{3, 4, 2, 1});
+        Assert.assertEquals(i, 5);
     }
 }

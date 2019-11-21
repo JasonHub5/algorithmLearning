@@ -12,3 +12,4 @@
 * [查找峰值](FindPeakElement.java)
 * [查找第K值](FindKthElement.java)
 * [求最大连续和](MaximumSubarray.java)(本题在这里用分治的思想解，后面用DP解法更优)
+* [逆序对计数](ReversePairs.java)
