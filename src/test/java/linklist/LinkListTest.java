@@ -109,7 +109,7 @@ public class LinkListTest {
     }
 
     @Test
-    public void insertionSortListTest(){
+    public void insertionSortListTest() {
         ListNode node1 = new ListNode(1);
         node1.next = new ListNode(3);
         node1.next.next = new ListNode(5);
@@ -120,7 +120,7 @@ public class LinkListTest {
     }
 
     @Test
-    public void mergeSortList(){
+    public void mergeSortList() {
         ListNode node1 = new ListNode(1);
         node1.next = new ListNode(3);
         node1.next.next = new ListNode(5);
@@ -131,13 +131,24 @@ public class LinkListTest {
     }
 
     @Test
-    public void reverseLinkList(){
+    public void reverseLinkList() {
         ListNode node = new ListNode(1);
         node.next = new ListNode(2);
         node.next.next = new ListNode(3);
         node.next.next.next = new ListNode(4);
         node.next.next.next.next = new ListNode(5);
         ListNode newNode = ReverseLinkList.reverse(node);
+        newNode.print();
+    }
+
+    @Test
+    public void reverseLinkListIITest() {
+        ListNode node = new ListNode(1);
+        node.next = new ListNode(2);
+        node.next.next = new ListNode(3);
+        node.next.next.next = new ListNode(4);
+        node.next.next.next.next = new ListNode(5);
+        ListNode newNode = ReverseLinkListII.reverse(node, 2, 4);
         newNode.print();
     }
 }
