@@ -7,9 +7,9 @@
  * [二分法](src/main/java/binarysearch/README.MD)
  * [递归](/src/main/java/recusion/README.MD)
  * [分治](/src/main/java/dc/README.MD)
- * 链表
- * 堆栈
- * 队列
+ * [链表](/src/main/java/linklist/README.MD)
+ * 堆栈、队列
+ * [哈希](/src/main/java/hash/README.MD)
  * 树
  * 图
  * 双指针
