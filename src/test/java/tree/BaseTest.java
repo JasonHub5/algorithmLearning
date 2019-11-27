@@ -2,10 +2,7 @@ package tree;
 
 import org.junit.Assert;
 import org.junit.Test;
-import tree.base.CreateTree;
-import tree.base.IterativeInorderTraversal;
-import tree.base.IterativePostorderTraversal;
-import tree.base.IterativePreorderTraversal;
+import tree.base.*;
 
 public class BaseTest {
     @Test
@@ -20,6 +17,30 @@ public class BaseTest {
         binaryTree.print();
     }
 
+    @Test
+    public void highTest() {
+        TreeNode tree1 = CreateTree.createBinaryTree(new int[]{5});
+        Assert.assertEquals(HighOfTree.getHigh(tree1), 1);
+
+        TreeNode tree2 = CreateTree.create(new int[]{5, 1, 2});
+        Assert.assertEquals(HighOfTree.getHigh(tree2), 2);
+
+        TreeNode tree3 = CreateTree.create(new int[]{5, 1, 2, 3});
+        Assert.assertEquals(HighOfTree.getHigh(tree3), 3);
+    }
+
+    @Test
+    public void countTest() {
+        TreeNode tree1 = CreateTree.createBinaryTree(new int[]{5});
+        Assert.assertEquals(CountNode.count(tree1), 1);
+
+        TreeNode tree2 = CreateTree.create(new int[]{5, 1, 2});
+        Assert.assertEquals(CountNode.count(tree2), 3);
+
+        TreeNode tree3 = CreateTree.create(new int[]{5, 1, 2, 3});
+        Assert.assertEquals(CountNode.count(tree3), 4);
+    }
+
     /**
      * 先序
      */
@@ -27,6 +48,8 @@ public class BaseTest {
     public void IterativePreorderTraversalTest() {
         TreeNode tree = CreateTree.create(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9});
         IterativePreorderTraversal.print(tree);
+        System.out.println();
+        IterativePreorderTraversal.print2(tree);
     }
 
     /**
@@ -38,6 +61,8 @@ public class BaseTest {
         tree.print();
         System.out.println();
         IterativeInorderTraversal.print(tree);
+        System.out.println();
+        IterativeInorderTraversal.print2(tree);
     }
 
     /**
