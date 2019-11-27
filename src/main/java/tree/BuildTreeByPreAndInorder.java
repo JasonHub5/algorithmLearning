@@ -24,7 +24,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class BulidTreeByPreAndInorder {
+public class BuildTreeByPreAndInorder {
     public static TreeNode buildTree(int[] preorder, int[] inorder) {
         if (preorder == null || inorder == null || preorder.length != inorder.length) {
             return null;
