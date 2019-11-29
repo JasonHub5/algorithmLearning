@@ -10,6 +10,6 @@
 * [找硬币](FindCoin.MD)
 * [快速指数](ExponentCalculation.java)
 * [查找峰值](FindPeakElement.java)
-* [查找第K值](FindKthElement.java)
+* [查找第K值](FindKthElement.java) 本题的另一种堆的解法[点击这里](../heap/FindKthElement.java)
 * [求最大连续和](MaximumSubarray.java)(本题在这里用分治的思想解，后面用DP解法更优)
 * [逆序对计数](ReversePairs.java)

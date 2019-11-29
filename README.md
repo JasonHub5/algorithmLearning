@@ -8,9 +8,10 @@
  * [递归](/src/main/java/recusion/README.MD)
  * [分治](/src/main/java/dc/README.MD)
  * [链表](/src/main/java/linklist/README.MD)
- * 堆栈、队列
+ * [堆栈、队列](/src/main/java/stackandqueue/README.MD)
  * [哈希](/src/main/java/hash/README.MD)
- * 树
+ * [树](/src/main/java/tree/README.MD)
+ * [堆](/src/main/java/heap/README.MD)
  * 图
  * 双指针
  * 滑动窗口
