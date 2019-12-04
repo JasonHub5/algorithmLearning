@@ -50,14 +50,14 @@ BFS(Vertex S,Vertex G){
 ### 练习
 1. [迷宫](TheMaze.java)
 2. [Flood Fill](FloodFill.java)
-3. Friend Circles
-4. Number of Islands
-5. Max Area of lsland
-6. Employee Importance
-7. Is Graph Bipartite
-8. Pacific Atlantic Water Flow
-9. Longest Increasing Path in a Matrix
-10. 01 Matrix
-11. Accounts Merge
+3. [Friend Circles](FriendCircles.java)
+4. [Number of Islands](NumberOfIslands.java)
+5. [Max Area of lsland](MaxAreaOfIsland.java)
+6. [Employee Importance](EmployeeImportance.java)
+7. [Is Graph Bipartite](IsGraphBipartite.java)
+8. [Pacific Atlantic Water Flow](PacificAtlanticWater.java)
+9. [Longest Increasing Path in a Matrix](LongestIncreasingPath.java)
+10. [01 Matrix](MaxrixAbout01.java)
+11. [Accounts Merge]
 12. Word Ladder
 13. Word Ladder II
