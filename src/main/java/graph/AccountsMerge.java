@@ -49,7 +49,7 @@ public class AccountsMerge {
             if (visited[i]) {
                 continue;
             }
-            String name = accounts.get(0).get(0);
+            String name = accounts.get(i).get(0);
             List<String> emails = new LinkedList<>();
             dfs(accounts, emails, map, visited, i);
             emails.add(0, name);
@@ -67,7 +67,9 @@ public class AccountsMerge {
         List<String> account = accounts.get(i);
         for (int j = 1; j < account.size(); j++) {
             String email = account.get(j);
-            emails.add(email);
+            if (!emails.contains(email)) {
+                emails.add(email);
+            }
             List<Integer> neighbors = map.get(email);
             for (int nx : neighbors) {
                 dfs(accounts, emails, map, visited, nx);

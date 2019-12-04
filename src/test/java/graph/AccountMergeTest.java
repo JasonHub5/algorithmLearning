@@ -17,6 +17,6 @@ public class AccountMergeTest {
         list.add(Arrays.asList("John", "johnsmith@mail.com", "john_newyork@mail.com"));
         list.add(Arrays.asList("Mary", "mary@mail.com"));
         List<List<String>> lists = AccountsMerge.accountsMerge(list);
-        System.out.println(list);
+        System.out.println(lists);
     }
 }
