@@ -12,8 +12,8 @@
  * [哈希](/src/main/java/hash/README.MD)
  * [树](/src/main/java/tree/README.MD)
  * [堆](/src/main/java/heap/README.MD)
- * 图
- * 双指针
+ * [图](/src/main/java/graph/README.MD)
+ * [双指针](src/main/java/twopointers/README.MD)
  * 滑动窗口
  * 动态规划
  * 贪心算法
