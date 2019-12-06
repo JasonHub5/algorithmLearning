@@ -14,10 +14,10 @@ public class MaxSubstring {
         if (nums == null || nums.length == 0) {
             return null;
         }
-        int low = 0, high = 1;
+        int low = 0, high = 0;
         int max = Integer.MIN_VALUE;
         int[] result = new int[2];
-        int sum = nums[low];
+        int sum = 0;
         while (low < nums.length) {
             while (high < nums.length) {
                 sum += nums[high];
@@ -35,6 +35,50 @@ public class MaxSubstring {
             }
             sum = sum - nums[low];
             low++;
+        }
+        return result;
+    }
+
+    /**
+     * 单个while循环的写法
+     * @param nums
+     * @param target
+     * @return
+     */
+    public static int[] maxSubstring2(int[] nums, int target) {
+        if (nums == null || nums.length == 0) {
+            return null;
+        }
+        int low = 0, high = 0;
+        int max = Integer.MIN_VALUE;
+        int[] result = new int[2];
+        int sum = 0;
+        while (high < nums.length) {
+            if (low == high) {
+                sum = nums[high];
+            } else if (low > high) {
+                high++;
+                continue;
+            } else {
+                sum += nums[high];
+            }
+
+            if (sum <= target) {
+                if (max < sum) {
+                    max = sum;
+                    result[0] = low;
+                    result[1] = high;
+                }
+                high++;
+            } else {
+                if (low == high) {
+                    sum -= nums[high];
+                } else {
+                    sum -= nums[high];
+                    sum = sum - nums[low];
+                }
+                low++;
+            }
         }
         return result;
     }

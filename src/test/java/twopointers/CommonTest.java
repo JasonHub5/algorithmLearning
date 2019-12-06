@@ -39,9 +39,13 @@ public class CommonTest {
 
     @Test
     public void maxSubstringTest() {
-        int[] ints = MaxSubstring.maxSubstring(new int[]{4, 7, 12, 1, 2, 3, 6}, 17);
-        Assert.assertEquals(ints[0], 2);
-        Assert.assertEquals(ints[1], 4);
+        int[] ints = MaxSubstring.maxSubstring(new int[]{4, 17, 12, 1, 2, 3, 6}, 17);
+        Assert.assertEquals(ints[0], 1);
+        Assert.assertEquals(ints[1], 1);
+
+        int[] ints2 = MaxSubstring.maxSubstring2(new int[]{4, 20, 12, 1, 2, 3, 6}, 17);
+        Assert.assertEquals(ints2[0], 2);
+        Assert.assertEquals(ints2[1], 4);
     }
 
     @Test
