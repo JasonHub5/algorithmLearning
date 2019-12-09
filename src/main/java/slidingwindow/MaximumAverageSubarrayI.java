@@ -22,7 +22,20 @@
 package slidingwindow;
 
 public class MaximumAverageSubarrayI {
-//    public static double findMaxAverage(int[] nums, int k) {
-//
-//    }
+    public static double findMaxAverage(int[] nums, int k) {
+        double maxAvg = Double.MIN_VALUE;
+        int sum = 0;
+        int j = 0;
+        for (int i = 0; i < nums.length - k; i++) {
+            while (j - i + 1 <= k) {
+                sum += nums[j];
+                j++;
+            }
+            if (sum > maxAvg) {
+                maxAvg = sum;
+            }
+            sum -= nums[i];
+        }
+        return maxAvg / k;
+    }
 }

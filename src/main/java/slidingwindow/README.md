@@ -3,10 +3,10 @@
 1. [从排序数组中删除重复数（一）](RemoveDuplicates.java)
 2. [从排序数组中删除重复数（二）](RemoveDuplicatesII.java)
 3. [删除元素](removeElement.java)
-4. 最大均值子数组
-5. 最长连续递增子序列
-6. 最短子数组之和
-7. 实现strStr()函数
+4. [最大均值子数组](MaximumAverageSubarrayI.java)
+5. [最长连续递增子序列](LongestContinuousSubsequence.java)
+6. [最短子数组之和](MinimumSizeSubarraySum.java)
+7. [实现strStr()函数](ImplStrStr.java)
 8. 子数组乘积小于K
 9. 不含重复字符的最长子串
 11. 最小窗口子串
