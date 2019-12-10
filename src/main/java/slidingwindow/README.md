@@ -7,7 +7,7 @@
 5. [最长连续递增子序列](LongestContinuousSubsequence.java)
 6. [最短子数组之和](MinimumSizeSubarraySum.java)
 7. [实现strStr()函数](ImplStrStr.java)
-8. 子数组乘积小于K
-9. 不含重复字符的最长子串
+8. [子数组乘积小于K](SubarrayProductLessThanK.java)
+9. [不含重复字符的最长子串](LongestSubstringWithoutRepeating.java)
 11. 最小窗口子串
 12. 滑动窗口最大值

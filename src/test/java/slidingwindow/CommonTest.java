@@ -62,8 +62,20 @@ public class CommonTest {
     }
 
     @Test
-    public void subarrayProductLessThanKTest(){
+    public void subarrayProductLessThanKTest() {
         int count = SubarrayProductLessThanK.numSubarrayProductLessThanK(new int[]{10, 5, 2, 6}, 100);
         System.out.println(count);
+    }
+
+    @Test
+    public void longestSubstringWithoutRepeatingTest() {
+        int index = LongestSubstringWithoutRepeating.lengthOfLongestSubstring("abcabcbb");
+        Assert.assertEquals(index, 3);
+
+        int index2 = LongestSubstringWithoutRepeating.lengthOfLongestSubstring("bbbbb");
+        Assert.assertEquals(index2, 1);
+
+        int index3 = LongestSubstringWithoutRepeating.lengthOfLongestSubstring("pwwkew");
+        Assert.assertEquals(index3, 3);
     }
 }
