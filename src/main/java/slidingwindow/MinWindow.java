@@ -27,26 +27,28 @@ package slidingwindow;
 
 public class MinWindow {
     public static String minWindow(String s, String t) {
-        int j = 0;
         int start = 0;
         String result = "";
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == t.charAt(0) && j == 0) {
-                start = i;
-            }
-            if (s.charAt(i) == t.charAt(j)) {
-                j++;
-            }
-
-            if (j == t.length()) {
-                if (result.equals("") || (i - start + 1) < result.length()) {
-                    result = s.substring(start, i + 1);
+        while (start < s.length()) {
+            int j = 0;
+            for (int i = 0; i < s.length(); i++) {
+                if (s.charAt(i) == t.charAt(0) && j == 0) {
+                    start = i;
                 }
-                start = start + 1;
-                break;
-            }
-            if (i == s.length() - 1) {
-                return result;
+                if (s.charAt(i) == t.charAt(j)) {
+                    j++;
+                }
+
+                if (j == t.length()) {
+                    if (result.equals("") || (i - start + 1) < result.length()) {
+                        result = s.substring(start, i + 1);
+                    }
+                    start = start + 1;
+                    break;
+                }
+                if (i == s.length() - 1) {
+                    return result;
+                }
             }
         }
         return result;
