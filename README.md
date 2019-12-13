@@ -15,7 +15,7 @@
  * [图](/src/main/java/graph/README.MD)
  * [双指针](src/main/java/twopointers/README.MD)
  * [滑动窗口](src/main/java/slidingwindow/README.md)
- * 动态规划
+ * [动态规划](src/main/java/dp/README.md)
  * 贪心算法
  * 位操作
  * 字符串  
