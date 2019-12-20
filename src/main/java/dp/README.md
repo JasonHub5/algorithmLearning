@@ -16,9 +16,9 @@
 * [最大子序列乘积](MaximumProductSubarray.java)
 * [买卖股票I](BuyAndSellStockI.java)
 * [买卖股票II](BuyAndSellStockII.java)
-* 买卖股票III
+* [买卖股票III](BuyAndSellStockIII.java)
 * 买卖股票IV
-* 买卖股票V
+* 买卖股票V(最佳买卖股票时机含冷冻期)
 * 买卖股票VI
 * 独特路径
 * 在棋盘上移动

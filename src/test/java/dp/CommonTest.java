@@ -71,4 +71,10 @@ public class CommonTest {
         int profit = BuyAndSellStockII.maxProfit(new int[]{7, 1, 5, 3, 6, 4});
         Assert.assertEquals(profit, 7);
     }
+
+    @Test
+    public void buyAndSellStockIIITest() {
+        int profit = BuyAndSellStockIII.maxProfit(new int[]{3, 3, 5, 0, 0, 3, 1, 4});
+        Assert.assertEquals(profit, 6);
+    }
 }
