@@ -77,4 +77,54 @@ public class CommonTest {
         int profit = BuyAndSellStockIII.maxProfit(new int[]{3, 3, 5, 0, 0, 3, 1, 4});
         Assert.assertEquals(profit, 6);
     }
+
+    @Test
+    public void buyAndSellStockVTest() {
+        int profit = BuyAndSellStockV.maxProfit(new int[]{1, 2, 3, 0, 2});
+        Assert.assertEquals(profit, 3);
+    }
+
+    @Test
+    public void buyAndSellStockWithFeeTest() {
+        int profit = BuyAndSellStockWithFee.maxProfit(new int[]{1, 3, 2, 8, 4, 9}, 2);
+        Assert.assertEquals(profit, 8);
+    }
+
+    @Test
+    public void uniquePathTest() {
+        int count = UniquePath.uniquePaths(7, 3);
+        int count2 = UniquePath.uniquePaths2(7, 3);
+        Assert.assertEquals(count, 28);
+        Assert.assertEquals(count2, 28);
+    }
+
+    @Test
+    public void movingBoard() {
+        int[][] board = {{-2, -1, 0, -3, 1}, {1, 3, 5, 4, 2}, {3, 5, 2, 0, 4}, {2, 3, 1, 4, 2}};
+        int max = MovingBoard.movingBoard(board);
+        Assert.assertEquals(max, 13);
+    }
+
+    @Test
+    public void maxSquareTest() {
+        char[][] matrix = {{'1', '0', '1', '0', '0'}, {'1', '0', '1', '1', '1'}, {'1', '1', '1', '1', '1'}, {'1', '0', '0', '1', '0'}};
+        int max = MaxSquare.maximalSquare(matrix);
+        Assert.assertEquals(max, 2);
+    }
+
+    @Test
+    public void lcsTest() {
+        int lcs1 = LongestCommonSubsequence.lcs("10011", "01101");
+        Assert.assertEquals(lcs1, 3);
+
+
+        int lcs2 = LongestCommonSubsequence.lcs("abcefg", "abcgfcefg");
+        Assert.assertEquals(lcs2, 6);
+    }
+
+    @Test
+    public void lisTest() {
+        int length = LongestIncreaseSubsequence.lis2(new int[]{14, 22, 9, 33, 21, 50, 41, 60, 80});
+        Assert.assertEquals(length, 6);
+    }
 }

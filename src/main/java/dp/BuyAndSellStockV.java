@@ -19,4 +19,28 @@
 package dp;
 
 public class BuyAndSellStockV {
+    public static int maxProfit(int[] prices) {
+        int[] buy = new int[prices.length];
+        int[] profite = new int[prices.length];
+
+        buy[0] = -prices[0];
+        profite[0] = 0;
+        buy[1] = Math.max(buy[0], -prices[1]);
+        profite[1] = Math.max(profite[0], prices[1] + buy[0]);
+
+        for (int i = 2; i < prices.length; i++) {
+            buy[i] = Math.max(buy[i - 1], profite[i - 2] - prices[i]);
+            profite[i] = Math.max(profite[i - 1], buy[i - 1] + prices[i]);
+        }
+        return profite[prices.length - 1];
+    }
+
+    /*
+    * 总结：
+    * 两个数组：
+    * Cash - 指当前可以获取的最大利润
+    * Hold - 指当前手中持有股票的情况所有的利润
+    * ==> Cash[i] = Max(Cash[i-1], Hold[i-1] + price[i])
+    * ==> Hold[i] = Max(Hold[i-1], Cash[i-2] - price[i])
+    * */
 }
